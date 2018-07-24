@@ -1,0 +1,6 @@
+target/
+bin/
+*.iml
+.idea/
+src-gen/
+xtend-gen/
